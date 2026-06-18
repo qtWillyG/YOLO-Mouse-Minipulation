@@ -1,4 +1,4 @@
-<h1 align="center">YOLO Mouse C++ Edition</h1>
+<h1 align="center">YOLO Mouse Manipulation C++ Edition</h1>
 
 <p align="center">
   Move the mouse onto an on-screen object detected by a <b>YOLOv10</b> model —
